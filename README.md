@@ -68,7 +68,7 @@ This file contains the notes that explains the naming of the variables and any d
 
  **3. "README.md"**
 
-This file (that you are currently reading) give as overview of the project and the analysis.
+This file (that you are currently reading) give an overview of the project and the analysis.
 
 Section 3: Further notes
 -------
