@@ -1,4 +1,4 @@
-# ReadMe file#
+# README.md file#
 
 This file sums up the work performed as part of completing the main course project for the Coursera [Getting and Cleaning Data](Getting%20and%20Cleaning%20Data) online course.
 
@@ -62,13 +62,13 @@ Section 2: Included files
 
 This file contains the actual script that performs the automated analysis as per description.
  
- **2. "Codebook.md"**
+ **2. "CodeBook.md"**
 
 This file contains the notes that explains the naming of the variables and any data manipulation performed while running the scripts.
 
- **3. "Tidy_data.txt"**
+ **3. "README.md"**
 
-This file contains the "tidy" output file from the "run_analysis.R" script.
+This file (that you are currently reading) give as overview of the project and the analysis.
 
 Section 3: Further notes
 -------
