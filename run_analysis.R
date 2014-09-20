@@ -1,7 +1,7 @@
 ############################# Step 1 ######################################
 # Merges the training and the test sets to create one data set.
 
-# Note! Please set your working directory to the "UCI HAR Dataset".
+# Note! Please set your working directory to the folder "UCI HAR Dataset".
 
 # Reading in files --------------------------------------------------------
 features <- read.delim(file = "features.txt", sep = "", header = FALSE)
